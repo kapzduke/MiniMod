@@ -1,0 +1,8 @@
+type: DuctBridge
+health: 2
+requirements: [
+  magnesium/8
+]
+category: distribution
+research: magnesium-router
+researchCostMultiplier: 0.1
