@@ -1,0 +1,9 @@
+type: LiquidRouter
+health: 10
+requirements: [
+  magnesium/2
+]
+liquidCapacity: 8
+placeableLiquid: true
+category: liquid
+research: magnesium-conduit
